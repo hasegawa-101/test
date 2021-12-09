@@ -1,0 +1,49 @@
+.wrapper {
+  max-width: 65rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 48.0625em) {
+  .wrapper {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+
+:root {
+  --header-height: 3.75rem;
+  --breakpoint-xs: 600;
+  --breakpoint-sm: 769;
+  --breakpoint-md: 960;
+  --breakpoint-lg: 1200;
+  --breakpoint-xl: 1366;
+  --color-primary-black: #323232;
+  --color-primary-blue: #1a809f;
+  --color-primary-red: #ac272d;
+  --color-primary-gray: #919191;
+  --color-secondary-blue: #1a80a7;
+  --color-secondary-black: #646464;
+  --color-secondary-gray: #c8c8c8;
+  --color-tertiary-gray: #ebebeb;
+  --color-quaternary-gray: #969696;
+}
+
+@media (min-width: 37.5em) {
+}
+
+@media (min-width: 48.0625em) {
+}
+
+@media (min-width: 60em) {
+}
+
+@media (min-width: 75em) {
+}
+
+@media (min-width: 85.375em) {
+}
+
